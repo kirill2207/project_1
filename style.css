@@ -6,6 +6,7 @@ body{
 	width: 1400px auto;
 	margin: 0 ;
 	background-image: url(img/content.png);
+	background-repeat: repeat-x;
 }
 .left{
 float: left;
